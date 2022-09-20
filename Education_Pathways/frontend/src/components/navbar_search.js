@@ -62,8 +62,6 @@ export default class NavbarComp extends Component {
                   Search
                 </Nav.Link>
 
-                
-
               </Nav>
             </Navbar.Collapse>
           </Navbar>
